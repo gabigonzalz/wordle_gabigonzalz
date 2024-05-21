@@ -1,7 +1,7 @@
-Pequeño proyecto de Wordle.
-código Python completo
+Pequeño proyecto de Wordle.\
+Código en Python completo \
 
-Normas:
+Normas:  \
 1 - Las palabras DEBEN tener 5 letras
 2 - Si una letra no está en la palabra, volverá sin elementos decorativos.
 3 - Si una letra está en la palabra pero no en el lugar correcto regresará con ( )
